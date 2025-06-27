@@ -1,6 +1,7 @@
 {
   "name": "gemini",
   "private": true,
+  "homepage": "https://amarmaurya-com.github.io/gemini-chat-app/"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
